@@ -1,0 +1,1 @@
+# Configurando-Recursos-e-Dimensionamentos-em-VM
